@@ -85,7 +85,7 @@
             <div id="body">
                 <p>This is a simple demonstration of  HEALTH CIRCLE graduation project web version implemented using the Code Igniter Frame work </p>
                 
-                <code>prepared by 
+                <code style="color:red">prepared by 
                     <br> - Ahmed Nassar Mohamed 
                     <br> - Islam Mohamed Zaki 
                     <br>  - Mostafa Ali Abbas 
