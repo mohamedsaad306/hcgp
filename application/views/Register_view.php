@@ -28,6 +28,20 @@
                     <label for="cpassword">Confirm Password</label><br>
                     <input type="password" class="form-control" id="cpassword" placeholder="">
                 </div><br> <br>
+<label for="radio">Select Gender</label><br>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+                        Male  </label>
+                </div>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+                        Female
+                    </label>
+                </div><br><br>
+
+
                 <button type="submit" class="btn btn-default">Submit</button>
             </form>
 
@@ -36,6 +50,7 @@
         </div>
     </div>
 
+    -----------------------
 
 
 
