@@ -92,7 +92,7 @@
                     <br>   - Mohamed Omsma 
                     <br> - Mohamed Mohamed Saad </code>
 
-                 <a href="index.php/gohome">
+                 <a href="index.php/splash">
                 <h2>Enter The Project </h2>
             </a>
                 
