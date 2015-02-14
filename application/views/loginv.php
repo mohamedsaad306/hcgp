@@ -22,6 +22,8 @@ echo $cat; ?><br>
   </div>
   <button type="submit" class="btn btn-default">Sign in</button>
 </form>
+                <a href="register?cat=<?php $cat = isset($_POST['cat']) ? $_POST['cat'] : "";echo $cat ?>">Sign Up </a>
+
             </center>
         </div>
     </div>
